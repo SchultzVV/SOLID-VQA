@@ -1,0 +1,8 @@
+qiskit
+PennyLane
+qiskit[visualization]
+qiskit-ignis
+pennylane-qiskit
+qiskit-ibm-runtime
+pyqt5
+qutip
